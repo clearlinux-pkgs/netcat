@@ -4,7 +4,7 @@
 #
 Name     : netcat
 Version  : 0.7.1
-Release  : 10
+Release  : 11
 URL      : http://downloads.sourceforge.net/netcat/netcat-0.7.1.tar.gz
 Source0  : http://downloads.sourceforge.net/netcat/netcat-0.7.1.tar.gz
 Summary  : No detailed summary available
